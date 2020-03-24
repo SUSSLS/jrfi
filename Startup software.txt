@@ -1,0 +1,8 @@
+Startup software oo
+
+CMS: 
+Drupal, Wordpress, Joomla
+
+
+Project and Product Mgt
+Trello, Kanban Tool
